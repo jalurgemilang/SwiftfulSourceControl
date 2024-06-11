@@ -49,7 +49,7 @@ struct ContentView: View {
             }
             .background(Color.green)
             
-            Button("Subscribe now!") {
+            Button("Subscribe Again!") {
                 
             }
             .background(Color.green)
