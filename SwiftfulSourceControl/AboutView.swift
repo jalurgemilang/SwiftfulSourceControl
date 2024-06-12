@@ -10,6 +10,8 @@ import SwiftUI
 struct AboutView: View {
     var body: some View {
         Text("About!")
+        
+        //Technically GitKraken should show me my local progress and compared that to the progress in the Cloud
     }
 }
 
