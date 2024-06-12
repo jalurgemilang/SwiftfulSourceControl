@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9D33AE862C194BC8002A6796 /* AboutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D33AE852C194BC8002A6796 /* AboutView.swift */; };
 		9D6B1BD62BF84D1C000FE670 /* SwiftfulSourceControlApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D6B1BD52BF84D1C000FE670 /* SwiftfulSourceControlApp.swift */; };
 		9D6B1BD82BF84D1C000FE670 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D6B1BD72BF84D1C000FE670 /* ContentView.swift */; };
 		9D6B1BDA2BF84D1E000FE670 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9D6B1BD92BF84D1E000FE670 /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9D33AE852C194BC8002A6796 /* AboutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutView.swift; sourceTree = "<group>"; };
 		9D6B1BD22BF84D1C000FE670 /* SwiftfulSourceControl.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftfulSourceControl.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9D6B1BD52BF84D1C000FE670 /* SwiftfulSourceControlApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftfulSourceControlApp.swift; sourceTree = "<group>"; };
 		9D6B1BD72BF84D1C000FE670 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 			children = (
 				9D6B1BD52BF84D1C000FE670 /* SwiftfulSourceControlApp.swift */,
 				9D6B1BD72BF84D1C000FE670 /* ContentView.swift */,
+				9D33AE852C194BC8002A6796 /* AboutView.swift */,
 				9D6B1BD92BF84D1E000FE670 /* Assets.xcassets */,
 				9D6B1BDB2BF84D1E000FE670 /* SwiftfulSourceControl.entitlements */,
 				9D6B1BDC2BF84D1E000FE670 /* Preview Content */,
@@ -149,6 +152,7 @@
 				9D6B1BD82BF84D1C000FE670 /* ContentView.swift in Sources */,
 				9D98651A2C19465D003B0853 /* ExploreView.swift in Sources */,
 				9D6B1BD62BF84D1C000FE670 /* SwiftfulSourceControlApp.swift in Sources */,
+				9D33AE862C194BC8002A6796 /* AboutView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
