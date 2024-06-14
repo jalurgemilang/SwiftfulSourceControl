@@ -13,6 +13,7 @@
 		9D6B1BDE2BF84D1E000FE670 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9D6B1BDD2BF84D1E000FE670 /* Preview Assets.xcassets */; };
 		9D7CE9692BF8A19B00354801 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D7CE9682BF8A19B00354801 /* HomeView.swift */; };
 		9DEA37532C1BDA8600BE5B7A /* CoLabsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DEA37522C1BDA8600BE5B7A /* CoLabsView.swift */; };
+		9DEA37552C1BDB0A00BE5B7A /* CoLabsTableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DEA37542C1BDB0A00BE5B7A /* CoLabsTableView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		9D6B1BDD2BF84D1E000FE670 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		9D7CE9682BF8A19B00354801 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		9DEA37522C1BDA8600BE5B7A /* CoLabsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoLabsView.swift; sourceTree = "<group>"; };
+		9DEA37542C1BDB0A00BE5B7A /* CoLabsTableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoLabsTableView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				9D6B1BDC2BF84D1E000FE670 /* Preview Content */,
 				9D7CE9682BF8A19B00354801 /* HomeView.swift */,
 				9DEA37522C1BDA8600BE5B7A /* CoLabsView.swift */,
+				9DEA37542C1BDB0A00BE5B7A /* CoLabsTableView.swift */,
 			);
 			path = SwiftfulSourceControl;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 			files = (
 				9D7CE9692BF8A19B00354801 /* HomeView.swift in Sources */,
 				9D6B1BD82BF84D1C000FE670 /* ContentView.swift in Sources */,
+				9DEA37552C1BDB0A00BE5B7A /* CoLabsTableView.swift in Sources */,
 				9DEA37532C1BDA8600BE5B7A /* CoLabsView.swift in Sources */,
 				9D6B1BD62BF84D1C000FE670 /* SwiftfulSourceControlApp.swift in Sources */,
 			);
